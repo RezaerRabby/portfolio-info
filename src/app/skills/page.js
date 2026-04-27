@@ -13,7 +13,8 @@ export default function SkillsPage() {
     "Next.js",
     "Tailwind CSS",
     "Git",
-    "Node.js"
+    "Figma",
+    
   ];
 
   return (
